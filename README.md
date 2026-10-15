@@ -1,6 +1,3 @@
-# Speedrun-Video-Checker
-A free, general tool for verifying video ownership.
-
 
 <!DOCTYPE html>
 <html lang="en">
